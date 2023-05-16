@@ -84,7 +84,8 @@ void display()
         printf("\n Press Next Choice");
     }
     else
-   
+    {
         printf("\n The STACK is empty");
     }
    
+}
